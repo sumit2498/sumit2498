@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on  -- Python,PySpark, Azure Synapse Analytics
-- 🌱 I’m currently learning  -- mentioned above + Machine Learning and Deep Learning Algorithm
+- 🌱 I’m currently learning  -- mentioned above + NLP,Machine Learning and Deep Learning Algorithms using Pytorch and Tensorflow
 - 👯 I’m looking to collaborate on -- same as above
 - 🤔 I’m looking for help with -- same as above
 - 💬 Ask me about -- same as above
